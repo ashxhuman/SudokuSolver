@@ -1,0 +1,41 @@
+body {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 400px;
+}
+
+#container {
+    text-align: center
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 2.5em;
+    margin: 0 auto;
+}
+
+colgroup,
+tbody {
+    border: solid medium orange;
+}
+
+td {
+    border: solid thin red;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;
+    padding: 0;
+}
+
+button {
+    margin-top: 15px;
+    font-size: 1.5em;
+}
+
+#padd {
+    padding-bottom: 200px;
+}
